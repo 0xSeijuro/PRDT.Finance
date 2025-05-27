@@ -1,6 +1,6 @@
 # ᝰ.ᐟ prdt
 
-Link: [https://prdt.finance/mining](https://prdt.finance/mining?referralCode=S50WX8V4L)
+Link: [https://prdt.finance/mining?referralCode=0Y2Z9ONOY)
 
 Tool được phát triển bởi nhóm tele Airdrop Hunter Siêu Tốc (https://t.me/airdrophuntersieutoc)
 
@@ -22,7 +22,7 @@ I am not `responsible` for the possibility of an account being `banned`!
 - Clone Repository
 
 ```bash
-git clone https://github.com/Hunga9k50doker/prdt.git
+git clone https://github.com/0xSeijuro/prdt.git
 cd prdt
 ```
 
